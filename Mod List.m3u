@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/1200px-HBO-Logo.svg.png" , HBO
+https://espare.tk/live/hbo_lat.m3u8?token=y6x8PJQmj9eAc28OtlKf7g&expires=1603766131
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" , HBO2
+https://espare.tk/live/hbo2_lat.m3u8?token=xf-v7GPw5b6NZm-EMOsZzg&expires=1603766411
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.LYBoGFZKvJ2oKxKayQTc-gAAAA?pid=Api&rs=1" , TC
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8tYihZWaF6y6t1CE0bOYhU)/dm/3/x7wijay/s/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png" , Ecuavisa
+http://173.212.247.99/hls/tvec2.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Gv94UGOyXgsxQWovvV1q7gHaFd?pid=Api&rs=1" , Teleamazonas
+https://playback.akamaized.net/streams/1359588_4428723_lsi7jnijbbol124qmnj_1/media/1359588_4428723_lsi7jnijbbol124qmnj_1@2756000p.m3u8?dw=14400&ts=1603753200&hdnts=exp=1603928576~acl=/streams/1359588_4428723_lsi7jnijbbol124qmnj_1/media*~hmac=6379bf017d5c087653fe3dfcb280ac1caa074fadb9e811abce16d9e5c60da480
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" , Canal UNO
+http://173.212.247.99/hls/tvec1.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-pNGKpQVNA3pwgv-2l5CEgHaFj?pid=Api&rs=1" , HBO Family
+https://espare.tk/live/hbo_family_lat.m3u8?token=Sj0rXq5fQRjY0H3uCBW8ag&expires=1603771525
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" , Warner
+https://espare.tk/live/warner_lat.m3u8?token=cASsSV5Y2eZphBAmOmOGYg&expires=1603771956
+
+#EXTINF:-1 tvg-logo="https://sony-grid.noblink.net/sharktankco2/media/logo-canal-sony.png" , Sony
+https://espare.tk/live/sony_lat.m3u8?token=uo3kz2ySM_78VKNdPidcXA&expires=1603772190
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.2yERA_RRvSxQzWMTLWc-ZAHaDd?pid=Api&rs=1" , Fox
+https://espare.tk/live/fox_lat.m3u8?token=YGGWgN_Z-wREhqZfBrl4Sw&expires=1603772365
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIESHD.png" , Fox Premium Movies
+https://espare.tk/live/fox_movies_lat.m3u8?token=pHJHeUKaGa5G6oW9TIS3xg&expires=1603772590
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.RDyiR0_ZJzBnYndw3UXMJAHaEK?pid=Api&rs=1" , Fox Premium Comedy
+https://espare.tk/live/fox_comedy_lat.m3u8?token=4qVZT2896p2eOzoSUv0kSA&expires=1603772709
+
+#EXTINF:-1 tvg-logo="http://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" , Fox Premium Series
+https://espare.tk/live/fox_series_lat.m3u8?token=q8_GlYhjjeJ9vdl3MarDCw&expires=1603772878
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_(Latin_America)_-_Logo_2017.png" , Fox Premium Action
+https://espare.tk/live/fox_action_lat.m3u8?token=Hay-qdpDSaVNOulXt9z5zQ&expires=1603773179
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" , Fox Premium Family
+https://espare.tk/live/fox_family_lat.m3u8?token=nB8OMGCojhyP-8jxHFjH1Q&expires=1603773277
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" , Axn
+https://espare.tk/live/axn_lat.m3u8?token=Qkle8_R022N3-b78790v8Q&expires=1603773506
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/3/32/Cinecanal2018LA.png/revision/latest?cb=20180908151823&path-prefix=es" , Cinecanal
+https://espare.tk/live/cinecanal_lat.m3u8?token=tqHgM9S7LF9-pA3x71gSzg&expires=1603773558
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" , Cinemax
+https://espare.tk/live/cinemax.m3u8?token=mlHycTAQC6SFUfEYsBevRA&expires=1603773715
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" , Golden
+https://espare.tk/live/golden_lat.m3u8?token=dNQZ1-Ghwst4caMZ-ZG_aA&expires=1603773938
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" , Space
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-p.m3u8?sd=10&rebase=on&id=AgC+7SIWyDyIVD1Sl197pNLq85%2f1MGTdBcK38spZbMTrnM9Mpj20G2w+nuWn%2fI7XKy7BiQo6l+kmaA%3d%3d&hdntl=exp=1603774109~acl=%2f*~data=hdntl~hmac=88e763119c165a65287b7a208fd89fb515b8c2cd8397413a78cda135201c0b57
+
+#EXTINF:-1 tvg-logo="https://d21buns5ku92am.cloudfront.net/33601/images/195593-Paramount%20Channel%20Logo-c9a4bc-large-1455501753.png" , Paramount
+https://espare.tk/live/paramount_lat.m3u8?token=y6V0v-XtVdvSXqYFJTwcsg&expires=1603774214
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1024px-Logo_Studio_Universal.svg.png" , Estudio Universal
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" , TNT
+https://espare.tk/live/tnt_lat.m3u8?token=6xGIUQqKP1MwgE5IjiEs8g&expires=1603775342
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" , Universal Channel
+https://espare.tk/live/universal_lat.m3u8?token=FmN8xK10ck3vTC0ibhYgtA&expires=1603775686
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zxTIfFYBYdWc_heAqxRIpQHaFG?pid=Api&rs=1" , MTV
+https://espare.tk/live/mtv_lat.m3u8?token=Qvp_rwm8nrxyZhSUzd7vwQ&expires=1603775761
+
+#EXTINF:-1 tvg-logo="http://www.vertelevisiononline.com/images/musictop_.png" , Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1687802920_b364000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" , Disney
+https://espare.tk/live/disney_channel_lat.m3u8?token=ujP4Oh9foYXsL7q8w7G4pQ&expires=1603776222
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AlaQbIRm8SE/WXEkESZRQAI/AAAAAAAA-hM/xSwec9TtdcE7oFpW-sWQiL8kko5cGdYhgCLcBGAs/s1600/america-tv.jpg" , America
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8?uid=b4WWxhCcDAFijl0BNrGhLBBIiymM4OZP&sid=7jGJuVzBH2fmiVxy5PcFiMeCFfHuDv8Y&pid=4bWWIs4bcLKuehVRj9eEzExLUTFXrWdH&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&dnt=true&access_token=wdvbcCcQ2NLlxhCQMsSozCgcSG9MW1wgmrw1rvQ5Pph6GiVtTvpKxniFdW2jJ7zdQHR1BjxU9Z1&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1603841632068&ot=5KjAyPbSJcsYJPC9Jz2Hjg&proto=https&pz=us
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ATV_%28Peru%29_-_2018_logo.png/1200px-ATV_%28Peru%29_-_2018_logo.png" , ATV
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAzODQxNDc3LCJzZXNzaW9uIjoiMTkwLjIzNy4zNC4yMiIsIndoaXRlbGlzdCI6WyIxOTAuMjM3LjM0LjIyIl19LCJzaWduYXR1cmUiOiIxMjRmMjgwNGMwYmZjMGNlOGI3ODViNjFkOTE1OTBiMmNlYmNiNDVjIn0%3D
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_(TVPE).svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_(TVPE).svg.png" , Tv Peru
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png2 , Panamericana
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFpOJBOAx6fGkRoR525M7_6A)/dm/3/x774s7s/s/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" , H&H
+
+
+
+
+
+
+
